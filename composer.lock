@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/roshangautam/composer.git",
-                "reference": "7bf886b3bac5cf724bec7994f1d8a960417ff6cc"
+                "reference": "98bc4e4483364d39f5b75ffcfad30cd20a067d2a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/roshangautam/composer/zipball/7bf886b3bac5cf724bec7994f1d8a960417ff6cc",
-                "reference": "7bf886b3bac5cf724bec7994f1d8a960417ff6cc",
+                "url": "https://api.github.com/repos/roshangautam/composer/zipball/98bc4e4483364d39f5b75ffcfad30cd20a067d2a",
+                "reference": "98bc4e4483364d39f5b75ffcfad30cd20a067d2a",
                 "shasum": ""
             },
             "require": {
@@ -86,7 +86,7 @@
                 "issues": "https://github.com/composer/composer/issues",
                 "source": "https://github.com/roshangautam/composer/tree/gitlab"
             },
-            "time": "2015-04-11 17:56:11"
+            "time": "2015-04-13 21:22:41"
         },
         {
             "name": "justinrainbow/json-schema",
